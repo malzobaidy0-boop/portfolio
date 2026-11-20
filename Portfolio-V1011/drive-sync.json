@@ -1,0 +1,9 @@
+{
+  "_note": "Add one entry per project. Share ONLY that folder (Viewer) with the service-account email. Set enabled:true after the first successful manual run.",
+  "projects": [
+    {"slug": "ads",      "driveFolderId": "1RQKgJF7cEy7eZ4DxLwqK-6qS6b8CPMGI", "enabled": false},
+    {"slug": "trips",    "driveFolderId": "17kTsErBF6dgni0id9NW9A-GnxBnfEJoQ", "enabled": false},
+    {"slug": "rawafid",  "driveFolderId": "1f1N-k_xDQkCnLeMCuRr34N9Rfh6ddcvZ", "enabled": false},
+    {"slug": "national", "driveFolderId": "1tKCB5VFRAQFUYPb4g7GTF_xX6lUmGn9s", "enabled": false}
+  ]
+}
